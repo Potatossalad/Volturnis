@@ -1,1 +1,7 @@
-
+name: "random-stuff"
+display-name: "Random Stuff"
+author: "Etherius"
+description: "jdiopawjwihgipa"
+version: 1.0
+minGameVersion: "146"
+hidden: false
