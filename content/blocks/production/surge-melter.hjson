@@ -17,7 +17,7 @@ consumes: {
   power: 4
   items: [ surge-alloy/1 ]
 }
-outputLiquid: molten-surge/12
+outputLiquid: molten-surge/0.2
 requirements: [
   plastanium/75
   thorium/80
