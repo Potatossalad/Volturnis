@@ -1,11 +1,11 @@
 type: Liquid
 name: Molten Piss
 description: Molten surge alloy. Looks like piss. It's electrifying!
-color: B0BAC0
-heatColor: FFB300
-glowColor: FF6600
+color: b0bac0
+heatColor: ffb300
+glowColor: ff6600
 glowIntensity: 1.0
-sparkColor: FF9900
+sparkColor: ff9900
 temperature: 1
 viscosity: 0.75
 blockReactive: true
