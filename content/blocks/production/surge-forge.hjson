@@ -1,7 +1,7 @@
 type: GenericCrafter
 name: Surge Forge
 description: A more advanced form of the Surge Smelter
-drawer: drawSmelter
+drawer: DrawSmelter
 crafteffect: smeltsmoke
 size: 5
 hasPower: true
