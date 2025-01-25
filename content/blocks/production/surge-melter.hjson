@@ -15,7 +15,7 @@ health: 150
 craftTime: 9
 consumes: {
   power: 4
-  items: surge-alloy/1
+  items: [ surge-alloy/1 ]
 }
 outputLiquid: molten-surge/12
 requirements: [
