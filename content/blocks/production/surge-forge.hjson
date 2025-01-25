@@ -10,7 +10,7 @@ consumesPower: true
 destructible: true
 breakable: true
 health: 300
-craftTime: 90
+craftTime: 80
 consumes: {
   power: 30
   items: [
