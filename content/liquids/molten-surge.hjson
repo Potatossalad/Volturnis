@@ -1,3 +1,4 @@
+type: Liquid
 name: molten-surge
 description: Molten surge alloy. Looks like piss. It's electrifying!
 color: B0BAC0
@@ -9,4 +10,3 @@ temperature: 1
 viscosity: 0.75
 blockReactive: true
 coolant: false
-effect: [melting, burning, electrified, shocked]
