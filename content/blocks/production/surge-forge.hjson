@@ -10,9 +10,9 @@ consumesPower: true
 destructible: true
 breakable: true
 health: 300
-craftTime: 3
+craftTime: 75
 consumes: {
-  power: 1
+  power: 30
   items: [
     silicon/10
     titanium/10
