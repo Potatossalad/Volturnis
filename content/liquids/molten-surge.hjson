@@ -1,3 +1,14 @@
-name: Molten Surge Alloy
+type: Liquid
+name: molten-surge
+localizedName: Molten Surge Alloy
 description: Molten Piss
 color: B0BAC0
+heatColor: FFB300
+glowColor: FF6600
+glowIntensity: 1.0
+sparkColor: FF9900
+temperature: 1
+viscosity: 0.75
+blockReactive: true
+coolant: false
+effect: [melting, burning, electrified, shocked]
