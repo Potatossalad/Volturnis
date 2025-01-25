@@ -5,7 +5,7 @@ crafteffect: smeltsmoke
 size: 5
 hasPower: true
 hasItems: true
-itemCapacity: 40
+itemCapacity: 200
 consumesPower: true
 destructible: true
 breakable: true
