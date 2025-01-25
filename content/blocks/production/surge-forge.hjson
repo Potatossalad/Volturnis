@@ -22,10 +22,10 @@ consumes: {
 }
 outputItem: surge-alloy/8 
 requirements: {
-  plastanium: 320
-  titanium: 400
-  silicon: 320
-  lead: 440
+  plastanium/320
+  titanium/400
+  silicon/320
+  lead/440
 }
 category: crafting
 research: alloy-smelter
