@@ -2,3 +2,36 @@ type: GenericCrafter
 name: surge-melter
 localizedName: Surge Melter
 description: Melts surge alloy into molten piss
+size: 1
+hasPower: true
+hasItems: true
+hasLiquids: true
+itemCapacity: 10
+outputsLiquid: true
+consumesPower: true
+destructible: true
+breakable: true
+health: 150
+craftTime: 9
+consumes: {
+  power: 4
+  items: surge-alloy/1
+}
+outputLiquid: molten-surge/12
+requirements: [
+  plastanium/75
+  thorium/80
+  titanium/50
+  lead/100
+]
+category: crafting
+research: {
+  parent: alloy-smelter
+  requirements: [
+    copper/2600
+    lead/4100
+    plastanium/1600
+    surge-alloy/400
+    thorium/3200
+  ]
+}
