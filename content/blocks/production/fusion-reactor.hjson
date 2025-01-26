@@ -1,2 +1,44 @@
-name: Fusion Reactor
+name: fusion-reactor
+localizedName: Fusion Reactor
 type: GenericCrafter
+description: Fuses Copper, Lead, and Titanium into Thorium, and produces Silicon as a byproduct.
+size: 4
+hasPower: true
+hasItems: true
+itemCapacity: 30
+destructible: true
+breakable: true
+health: 250
+craftTime: 300
+consumes: {
+  power: 9
+  items: [
+    titanium/3
+    lead/5
+    copper/8
+  ]
+}
+outputItems: [
+  thorium/2
+  silicon/5
+]
+requirements: [
+  surge-alloy/240
+  lead/520
+  titanium/600
+  copper/400
+  graphite/440
+]
+category: crafting
+research: {
+  parent: alloy-smelter
+  requirements: [
+    lead/5200
+    titanium/6000
+    silicon/2400
+    thorium/3700
+    surge-alloy/2800
+    graphite/3200
+    copper/8200
+  ]
+}
