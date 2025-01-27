@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: scrapper
+localizedName: Scrapper
+description: "Shreds lead into scrap. Useful for maps without scrap"
+size: 1
+hasPower: true
+hasItems: true
+itemCapacity: 10
+consumesPower: true
+destructible: true
+breakable: true
+health: 50
+craftTime: 32
+consumes: {
+  power: 0.2
+  item: lead
+}
+outputItem: scrap
+requirements: [
+  copper: 30
+  lead: 25
+]
+category: crafting
+research: {
+  parent: mechanical-drill
+  requirenemnts: [
+    copper: 540
+    lead: 300
+  ]
+}
