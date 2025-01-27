@@ -17,14 +17,14 @@ consumes: {
 }
 outputItem: scrap/1
 requirements: [
-  copper: 30
-  lead: 25
+  copper/30
+  lead/25
 ]
 category: crafting
 research: {
   parent: mechanical-drill
   requirenemnts: [
-    copper: 540
-    lead: 300
+    copper/540
+    lead/300
   ]
 }
