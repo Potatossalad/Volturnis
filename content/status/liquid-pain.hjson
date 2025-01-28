@@ -1,9 +1,7 @@
 type: StatusEffect
-name: liquid-pain
-localizedName: Liquid Pain
+name: Liquid Pain
 color: ff6600
 damage: 10
-effect: burning
 speedMultiplier: 0.6
 healthMultiplier: 0.7
 reloadMultiplier: 0.7
