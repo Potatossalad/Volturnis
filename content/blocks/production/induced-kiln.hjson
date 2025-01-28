@@ -24,3 +24,6 @@ requirements: [
 category: crafting
 research: kiln
 outputItem: metaglass/5
+destructible: true
+breakable: true
+health: 200
