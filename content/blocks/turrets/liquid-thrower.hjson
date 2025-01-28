@@ -85,7 +85,6 @@ ammoTypes: {
         drag: 0.001
         damage: 10
         liquid: molten-surge
-        status: liquid-pain
     }
 }
 requirements: [
