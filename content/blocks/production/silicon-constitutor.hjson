@@ -24,4 +24,6 @@ requirements: [
   lead/400
   titanium/280
   thorium/60
+  graphite/120
 ]
+research: silicon-crucible
