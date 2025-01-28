@@ -4,6 +4,7 @@ description: A better Kiln
 size: 3
 hasPower: true
 hasItems: true
+consumesPower: true
 itemCapacity: 20
 craftTime: 60
 craftEffect: smeltsmoke
