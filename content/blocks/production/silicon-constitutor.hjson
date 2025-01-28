@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: silicon-constitutor
+localizedName: Silicon Constitutor
+description: Aligns quantum particles into silicon for a hefty energy draw
+craftEffect: smeltsmoke
+size: 2
+hasPower: true
+hasItems: true
+itemCapacity: 10
+consumesPower: true
+destructible: true
+breakable: true
+health: 50
+craftTime: 30
+consumes: {
+  power: 20
+}
+outputItem: silicon/2
+category: crafting
+requirements: [
+  plastanium/200
+  surge-alloy/50
+  copper/320
+  lead/400
+  titanium/280
+  thorium/60
+]
