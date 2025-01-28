@@ -1,7 +1,6 @@
-name: "random-stuff"
-display-name: "Random Stuff"
-author: "Etherius"
+name: "Random Stuff"
 description: "Random stuff I do. Plz don't sue me bc I used your sprite."
+author: "Etherius"
 version: 1.0
 minGameVersion: "146"
 hidden: false
