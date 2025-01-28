@@ -1,0 +1,106 @@
+type: liquidTurret
+size: 3
+health: 700
+range: 50
+reload: 30
+heatColor: ff4500
+hasPower: true
+targetAir: false
+recoil: 0
+inaccuracy: 7
+targetAir: true
+breakable: true
+destructible: true
+shootEffect: shootLiquid
+shots: 12
+spread: 10
+ammoTypes: {
+    water: {
+        type: LiquidBulletType
+        lifetime: 49
+        speed: 4
+        knockback: 1.7
+        puddleSize: 8
+        orbSize: 4
+        ammoMultiplier: 0.4
+        statusDuration: 240
+        drag: 0.001
+        damage: 0.2
+        liquid: water
+        status: wet
+    }
+    slag: {
+        type: LiquidBulletType
+        lifetime: 49
+        speed: 4
+        knockback: 1.3
+        puddleSize: 8
+        orbSize: 4
+        ammoMultiplier: 0.4
+        statusDuration: 240
+        drag: 0.001
+        damage: 4.75
+        liquid: slag
+        status: melting
+    }
+    cryofluid: {
+        type: LiquidBulletType
+        lifetime: 49
+        speed: 4
+        knockback: 1.7
+        puddleSize: 8
+        orbSize: 4
+        ammoMultiplier: 0.4
+        statusDuration: 240
+        drag: 0.001
+        damage: 0.2
+        liquid: cryofluid
+        status: freezing
+    }
+    oil: {
+        type: LiquidBulletType
+        lifetime: 49
+        speed: 4
+        knockback: 1.7
+        puddleSize: 8
+        orbSize: 4
+        ammoMultiplier: 0.4
+        statusDuration: 240
+        drag: 0.001
+        damage: 0.2
+        liquid: oil
+        status: tarred
+    }
+    molten-surge: {
+        type: LiquidBulletType
+        lifetime: 120
+        speed: 5
+        knockback: 2.5
+        puddleSize: 10
+        orbSize: 5
+        ammoMultiplier: 0.5
+        statusDuration: 480
+        drag: 0.001
+        damage: 10
+        liquid: molten-surge
+        status: [
+            burning
+            melting
+            slow
+            shocked
+            blasted
+            corroded
+            electrified
+        ]
+    }
+}
+requirements: [
+    lead/50
+    silicon/30
+    titanium/40
+    thorium/30
+    surge/20
+    plastanium/20
+]
+category: turret
+research: tsunami

@@ -5,3 +5,4 @@ Surge Forge is a handmade upscaled Surge Smelter.
 Surge Melter was a recolored Melter.
 Scrapper was a recolored Pulveriser
 I actually sprited the Fusion Reactor myself! (even though it is still kinda bad).
+I don't plan on making sprites for the silicon constitutor.

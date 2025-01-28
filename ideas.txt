@@ -1,0 +1,16 @@
+Slurry mix:
+    Just a mix of every status
+    liquid
+Slurry Mixer:
+    Mixes things into slurry mix
+    molten surge + blast compound + pyratite + cryocrystal
+Cryocrystal:
+    Cryogel through a cooler
+    used for turrets
+    Most likely a requirement for Surge Forge and Fusion reactor
+Cooler:
+    Cools cryogel into crystals
+Volturnus:
+    Yes I know its an audiomachine album. Bite Me. I like them <3
+    Old race of entities. Maybe biological
+    
