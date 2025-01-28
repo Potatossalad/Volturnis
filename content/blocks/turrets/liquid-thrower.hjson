@@ -1,4 +1,6 @@
 type: liquidTurret
+name: liquid-thrower
+localizedName: Liquid Thrower
 size: 3
 health: 700
 range: 50
@@ -89,8 +91,6 @@ ammoTypes: {
             slow
             shocked
             blasted
-            corroded
-            electrified
         ]
     }
 }
