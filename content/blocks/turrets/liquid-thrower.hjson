@@ -85,6 +85,7 @@ ammoTypes: {
         drag: 0.001
         damage: 10
         liquid: molten-surge
+        status: liquid-pain
     }
 }
 requirements: [
@@ -92,7 +93,7 @@ requirements: [
     silicon/30
     titanium/40
     thorium/30
-    surge/20
+    surge-alloy/20
     plastanium/20
 ]
 category: turret
