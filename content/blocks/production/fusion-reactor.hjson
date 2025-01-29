@@ -9,7 +9,7 @@ itemCapacity: 30
 destructible: true
 breakable: true
 health: 250
-craftTime: 210
+craftTime: 105
 consumes: {
   power: 9
   items: [
