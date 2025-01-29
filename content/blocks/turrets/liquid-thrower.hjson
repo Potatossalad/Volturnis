@@ -6,7 +6,8 @@ health: 700
 range: 50
 reload: 30
 heatColor: ff4500
-hasPower: true
+hasLiquid: true
+liquidCapacity: 100
 targetAir: false
 recoil: 0
 inaccuracy: 7
@@ -14,7 +15,7 @@ targetAir: true
 breakable: true
 destructible: true
 shootEffect: shootLiquid
-shots: 12
+shots: 60
 spread: 10
 ammoTypes: {
     water: {
@@ -80,12 +81,12 @@ ammoTypes: {
         knockback: 2.5
         puddleSize: 10
         orbSize: 5
-        ammoMultiplier: 0.5
+        ammoMultiplier: 10
         statusDuration: 480
         drag: 0.001
-        damage: 10
+        damage: 40
         liquid: molten-surge
-        status: liquid-pain
+        status: melting
     }
 }
 requirements: [
