@@ -3,8 +3,9 @@ name: liquid-thrower
 localizedName: Liquid Thrower
 size: 3
 health: 700
-range: 50
+range: 300
 reload: 30
+continuous: true
 heatColor: ff4500
 hasLiquid: true
 liquidCapacity: 100
@@ -15,8 +16,11 @@ targetAir: true
 breakable: true
 destructible: true
 shootEffect: shootLiquid
-shots: 60
-spread: 10
+shoot: [
+    type: ShootPattern
+    shots: 1
+    shotDelay: 1
+]
 ammoTypes: {
     water: {
         type: LiquidBulletType
