@@ -4,7 +4,7 @@ localizedName: Liquid Thrower
 size: 3
 health: 700
 range: 300
-reload: 30
+reload: 1
 continuous: true
 heatColor: ff4500
 hasLiquid: true
