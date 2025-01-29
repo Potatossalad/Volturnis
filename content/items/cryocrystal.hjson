@@ -1,1 +1,5 @@
-
+name: cryocrystal
+localizedName: Cryocrystal
+cost: 1
+research: titanium
+temperature: 0.1
