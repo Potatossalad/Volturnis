@@ -5,6 +5,7 @@ description: Fuses Copper, Lead, and Titanium into Thorium, and produces Silicon
 size: 4
 hasPower: true
 hasItems: true
+outputsPower: true
 itemCapacity: 30
 destructible: true
 breakable: true
