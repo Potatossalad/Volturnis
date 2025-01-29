@@ -83,7 +83,7 @@ ammoTypes: {
         ammoMultiplier: 10
         statusDuration: 480
         drag: 0.001
-        damage: 40
+        damage: 110
         liquid: molten-surge
         status: melting
     }
