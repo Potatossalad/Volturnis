@@ -16,11 +16,6 @@ targetAir: true
 breakable: true
 destructible: true
 shootEffect: shootLiquid
-shoot: [
-    type: ShootPattern
-    shots: 1
-    shotDelay: 1
-]
 ammoTypes: {
     water: {
         type: LiquidBulletType
