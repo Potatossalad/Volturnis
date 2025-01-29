@@ -1,5 +1,5 @@
 type: StatusEffect
-name: Liquid Pain
+name: liquid-pain
 color: ff6600
 damage: 10
 speedMultiplier: 0.6
