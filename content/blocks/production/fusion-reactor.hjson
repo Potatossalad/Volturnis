@@ -9,9 +9,9 @@ itemCapacity: 30
 destructible: true
 breakable: true
 health: 250
-craftTime: 105
+craftTime: 100
+powerProduction: 10
 consumes: {
-  power: 9
   items: [
     titanium/3
     lead/5
@@ -19,8 +19,8 @@ consumes: {
   ]
 }
 outputItems: [
-  thorium/4
-  silicon/2
+  thorium/6
+  silicon/3
 ]
 requirements: [
   surge-alloy/240
