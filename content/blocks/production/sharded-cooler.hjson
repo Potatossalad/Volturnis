@@ -1,0 +1,27 @@
+name: sharded-cooler
+localizedName: Cooler
+type: GenericCrafter
+size: 2
+hasItems: true
+hasLiquids: true
+hasPower: true
+consumesPower: true
+destructible: true
+breakable: true
+health: 50
+craftTime: 30
+consumes: {
+  power: 0.5
+  liquid: [
+    cryofluid/6
+  ]
+}
+outputItems: [
+  cryocrystal/1
+]
+requirements: [
+  titanium/60
+  silicon/40
+  lead/50
+]
+research: cryofluid-mixer
