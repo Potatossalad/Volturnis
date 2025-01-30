@@ -14,8 +14,8 @@ craftTime: 100
 powerProduction: 10
 consumes: {
   items: [
-    titanium/3
-    lead/5
+    titanium/4
+    lead/6
     copper/8
   ]
 }
