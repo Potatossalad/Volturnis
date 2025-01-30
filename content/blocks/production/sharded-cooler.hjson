@@ -13,7 +13,7 @@ health: 50
 craftTime: 30
 consumes: {
   power: 0.5
-  liquid: [
+  liquids: [
     cryofluid/6
   ]
 }
