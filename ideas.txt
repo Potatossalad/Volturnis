@@ -4,13 +4,20 @@ Slurry mix:
 Slurry Mixer:
     Mixes things into slurry mix
     molten surge + blast compound + pyratite + cryocrystal
+    thisll be an item
+        chuck it into an industrial liquifaction machine and itll make a liquid slurry thatll be as strong as molten piss. thisll also debuff molten piss, put idk by how much.
 Cryocrystal:
-    Cryogel through a cooler
+    Cryofluid through a cooler
     used for turrets
-    Most likely a requirement for Surge Forge and Fusion reactor
+    used in slurry mixer
+Cryofluid
+    Make the piss thrower stronger
+    Probs a requirement for surge forge and fusion reactor, bc i need to debuff them
 Cooler:
-    Cools cryogel into crystals
+    Cools cryofluid into crystals
 Volturnus:
     Yes I know its an audiomachine album. Bite Me. I like them <3
-    Old race of entities. Maybe biological
+    Old race of entities. Maybe biological.
+    Might make a planet called voltaria
+    Going to have its own tech tree
     
