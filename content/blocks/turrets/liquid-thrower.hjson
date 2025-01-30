@@ -74,6 +74,12 @@ ammoTypes: {
         status: melting
     }
 }
+coolant: {
+    type: ConsumeLiquid
+    liquid: cryofluid
+    amount: 0.4
+}
+coolantMultiplier: 2
 requirements: [
     lead/50
     silicon/30
