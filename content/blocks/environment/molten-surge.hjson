@@ -1,0 +1,10 @@
+type: Floor
+name: Molten Surge Alloy
+speedMultiplier: 0.5
+varients: 0
+statusDuration: 120
+isLiquid: true
+albedo: 0.9
+status: melting
+cacheLayer: slag
+liquidDrop: molten-surge
