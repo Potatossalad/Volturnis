@@ -3,7 +3,7 @@ name: liquid-thrower
 localizedName: Liquid Thrower
 size: 3
 health: 700
-range: 300
+range: 576
 reload: 0
 continuous: true
 heatColor: ff4500
