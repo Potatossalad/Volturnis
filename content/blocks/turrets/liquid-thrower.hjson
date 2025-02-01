@@ -61,7 +61,7 @@ ammoTypes: {
     }
     molten-surge: {
         type: LiquidBulletType
-        lifetime: 120
+        lifetime: 1200
         speed: 5
         knockback: 2.5
         puddleSize: 10
