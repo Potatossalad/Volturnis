@@ -13,7 +13,7 @@ breakable: true
 health: 50
 craftTime: 30
 consumes: {
-  power: 20
+  power: 3.5
 }
 outputItem: silicon/2
 category: crafting
