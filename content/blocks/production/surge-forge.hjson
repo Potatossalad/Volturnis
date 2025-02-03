@@ -1,5 +1,4 @@
 type: GenericCrafter
-description: A more advanced form of the Surge Smelter
 craftEffect: smeltsmoke
 size: 5
 hasPower: true

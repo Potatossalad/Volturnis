@@ -1,6 +1,3 @@
-name: sharded-cooler
-localizedName: Cooler
-description: Cools cryofluid into cryocrystals
 type: GenericCrafter
 size: 2
 hasItems: true

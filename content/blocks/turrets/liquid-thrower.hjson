@@ -1,6 +1,4 @@
 type: liquidTurret
-name: liquid-thrower
-localizedName: Liquid Thrower
 size: 3
 health: 700
 range: 576

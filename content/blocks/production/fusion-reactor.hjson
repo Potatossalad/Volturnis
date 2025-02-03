@@ -1,7 +1,4 @@
-name: fusion-reactor
-localizedName: Fusion Reactor
 type: GenericCrafter
-description: Fuses Copper, Lead, and Titanium into Thorium, and produces Silicon as a byproduct.
 size: 4
 hasPower: true
 hasItems: true

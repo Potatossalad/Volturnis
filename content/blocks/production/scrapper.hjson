@@ -1,7 +1,4 @@
 type: GenericCrafter
-name: scrapper
-localizedName: Scrapper
-description: "Shreds lead into scrap. Useful for maps without scrap"
 size: 1
 hasPower: true
 hasItems: true

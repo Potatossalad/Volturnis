@@ -1,7 +1,4 @@
 type: GenericCrafter
-name: surge-melter
-localizedName: Surge Melter
-description: Melts surge alloy into molten piss
 size: 1
 hasPower: true
 hasItems: true

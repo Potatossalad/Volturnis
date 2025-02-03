@@ -1,7 +1,4 @@
 type: GenericCrafter
-name: silicon-constitutor
-localizedName: Silicon Constitutor
-description: Aligns quantum particles into silicon for a hefty energy draw
 craftEffect: smeltsmoke
 size: 2
 hasPower: true
