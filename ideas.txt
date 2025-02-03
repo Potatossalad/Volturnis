@@ -15,8 +15,8 @@ Cryofluid
     Probs a requirement for surge forge and fusion reactor, bc i need to debuff them
 Cooler:
     Cools cryofluid into crystals
-Volturnus:
-    Yes I know its an audiomachine album. Bite Me. I like them <3
+Volturnis:
+    Yes I know its a one letter change from an audiomachine album. Bite Me. I like them <3
     Old race of entities. Maybe biological.
     Might make a planet called voltaria
     Going to have its own tech tree
