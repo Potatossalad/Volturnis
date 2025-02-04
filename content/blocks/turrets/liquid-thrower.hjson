@@ -2,7 +2,7 @@ type: liquidTurret
 size: 3
 health: 700
 range: 576
-reload: 0
+reload: 0.5
 continuous: true
 heatColor: ff4500
 hasLiquid: true
