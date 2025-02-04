@@ -7,11 +7,9 @@ Slurry Mixer:
     thisll be an item
         chuck it into an industrial liquifaction machine and itll make a liquid slurry thatll be as strong as molten piss. thisll also debuff molten piss, put idk by how much.
 Cryocrystal:
-    Cryofluid through a cooler
     used for turrets
     used in slurry mixer
 Cryofluid
-    Make the piss thrower stronger
     Probs a requirement for surge forge and fusion reactor, bc i need to debuff them
 Cooler:
     Cools cryofluid into crystals
