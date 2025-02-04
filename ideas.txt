@@ -14,8 +14,7 @@ Cryofluid
 Cooler:
     Cools cryofluid into crystals
 Volturnis:
-    Yes I know its a one letter change from an audiomachine album. Bite Me. I like them <3
     Old race of entities. Maybe biological.
     Might make a planet called voltaria
     Going to have its own tech tree
-    
+    Heat based (unlike the god Volturnus)
