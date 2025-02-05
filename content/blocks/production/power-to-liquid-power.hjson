@@ -5,7 +5,7 @@ hasLiquids: true
 outputsLiquid: true
 consumesPower: true
 breakable: true
-crafTime: 60000
+crafTime: 0.006
 consumes: {
     power: 0.0166666
 }
