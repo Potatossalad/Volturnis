@@ -7,9 +7,7 @@ consumesPower: true
 breakable: true
 crafTime: 0
 consumes: {
-    power: {
-        0.0166666
-    }
+    power: 0.0166666
 }
 outputLiquid: liquid-power/0.0166666
 requirements: [
