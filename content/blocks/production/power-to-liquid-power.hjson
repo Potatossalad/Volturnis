@@ -7,7 +7,7 @@ consumesPower: true
 breakable: true
 crafTime: 0
 consumes: {
-    power{
+    power: {
         0.0166666
     }
 }
