@@ -13,5 +13,5 @@ requirements: [
 ]
 destructible: true
 breakable: true
-category: liquid
+category: power
 research: team-volturnis
