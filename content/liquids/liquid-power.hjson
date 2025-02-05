@@ -1,0 +1,5 @@
+type: Liquid
+color: ec7b4c
+viscosity: 0.0
+coolant: false
+blockReactive: false

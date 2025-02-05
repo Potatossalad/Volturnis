@@ -1,0 +1,18 @@
+type: ConsumeGenerator
+displayEfficency: false
+minEfficiency: 1
+breakable: true
+size: 1
+powerProduction: 0.0166666
+hasLiquids: true
+consumes: {
+    liquids: [
+        liquid-power/0.0166666
+    ]
+}
+envRequired: 0
+category: power
+research: team-volturnis
+requirements: [
+    volcanite/0
+]

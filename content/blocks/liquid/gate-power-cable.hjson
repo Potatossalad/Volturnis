@@ -1,0 +1,17 @@
+type: Conduit
+size: 1
+health: 300
+leaks: false
+liquidPressure: 10
+liquidCapacity: 100
+requirements: [
+    silicon/15
+    copper/30
+    plastanium/20
+    metaglass/10
+    phase-fabric/3
+]
+destructible: true
+breakable: true
+category: liquid
+research: team-volturnis

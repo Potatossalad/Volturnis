@@ -1,0 +1,11 @@
+localizedName: "[#B22222]Volturnis"
+description: The Volturnis Faction
+alwaysUnlocked: true
+type: LightBlock
+health: 800
+size: 2
+research {
+    root: true
+    name: "[#B22222]Volturnis"
+    requiresUnlock: false
+}
