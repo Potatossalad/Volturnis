@@ -4,7 +4,7 @@ alwaysUnlocked: true
 type: LightBlock
 health: 800
 size: 2
-research {
+research: {
     root: true
     name: "[#B22222]Volturnis"
     requiresUnlock: false
