@@ -4,6 +4,8 @@ Power Cable sprite
 Silicon Constitutor sprite
 Data Writers sprites
 Liquid Power
+Volcanite Smelter
+Power Cable
 
 ##Items
 
