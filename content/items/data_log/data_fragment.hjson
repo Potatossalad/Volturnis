@@ -1,0 +1,5 @@
+cost: 1
+research: {
+    parent: team-volturnis
+    requiresUnlock: false
+}
