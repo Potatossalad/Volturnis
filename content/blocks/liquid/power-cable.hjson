@@ -5,13 +5,12 @@ leaks: false
 liquidPressure: 10
 liquidCapacity: 100
 requirements: [
-    silicon/15
-    copper/30
-    plastanium/20
-    metaglass/10
-    phase-fabric/3
+    volcanite/4
 ]
 destructible: true
 breakable: true
 category: power
-research: team-volturnis
+research: {
+    parent: team-volturnis
+    requirements: volcanite/60
+}

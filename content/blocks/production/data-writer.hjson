@@ -1,0 +1,85 @@
+type: multicraft.Multcrafter
+researchCostMultiplier: 0.2
+size: 3
+health: 300
+alwaysUnlocked: true
+requirements: [
+    copper/1000
+]
+research: team-volturnis
+recipes:
+[
+{
+    input: {
+        items: [
+            copper/1000
+        ]
+    }
+    output: {
+        items: [
+            data-fragment/1
+        ]
+    }
+    craftTime: 5184000
+    craftEffect: smeltsmoke
+}
+{
+    input: {
+        items: [
+            copper/10000
+        ]
+    }
+    output: {
+        items: [
+            data-log-one/1
+        ]
+    }
+    craftTime: 5184000
+    crafteffect: smeltsmoke
+}
+{
+    input: {
+        items: [
+            lead/1000
+        ]
+    }
+    output: {
+        items: [
+            data-log-two/1
+        ]
+    }
+    craftTime: 5184000
+    craftEffect: smeltsmoke
+}
+{
+    input: {
+        items: [
+            lead/10000
+        ]
+    }
+    output: {
+        items: [
+            data-log-three/1
+        ]
+    }
+    craftTime: 5184000
+    craftEffect: smeltsmoke
+}
+{
+    input: {
+        items: [
+            data-fragments/1
+            data-log-1/1
+            data-log-2/1
+            data-log-3/1
+        ]
+    }
+    output: {
+        items: [
+            data-log-complete
+        ]
+    }
+    craftTime: 5184000
+    craftEffect: smeltsmoke
+}
+]
