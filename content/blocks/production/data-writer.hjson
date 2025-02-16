@@ -1,8 +1,10 @@
-type: multicraft.Multcrafter
+type: multicraft.Multicrafter
 researchCostMultiplier: 0.2
 size: 3
 health: 300
 alwaysUnlocked: true
+breakable: true
+destructible: true
 requirements: [
     copper/1000
 ]
