@@ -5,6 +5,7 @@ health: 300
 alwaysUnlocked: true
 breakable: true
 destructible: true
+hasItems: true
 requirements: [
     copper/1000
 ]
