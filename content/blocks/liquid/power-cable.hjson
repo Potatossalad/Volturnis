@@ -12,5 +12,7 @@ breakable: true
 category: power
 research: {
     parent: team-volturnis
-    requirements: volcanite/60
+    requirements: [ 
+        volcanite/60
+    ]
 }
