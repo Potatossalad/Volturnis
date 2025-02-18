@@ -6,6 +6,7 @@ alwaysUnlocked: true
 breakable: true
 destructible: true
 hasItems: true
+itemCapacity: 10000
 requirements: [
     copper/1000
 ]
