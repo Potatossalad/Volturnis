@@ -1,0 +1,8 @@
+localizedName: "[gold]Gate: Liquid"
+description: "Gate for things that involve liquid transport/storage"
+alwaysUnlocked: true
+type: Wall
+health: 0
+buildVisibility: hidden
+research: team-volturnis
+size: 1

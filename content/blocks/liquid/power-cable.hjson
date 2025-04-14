@@ -11,7 +11,7 @@ destructible: true
 breakable: true
 category: power
 research: {
-    parent: team-volturnis
+    parent: gate-liquid
     requirements: [ 
         volcanite/60
     ]
