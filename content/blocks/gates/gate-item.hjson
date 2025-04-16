@@ -1,0 +1,8 @@
+localizedName: "Gate: Items"
+description: "Gate for Items"
+alwaysUnlocked: true
+type: Wall
+health: 0
+buildVisibility: hidden
+research: team-volturnis
+size: 1
