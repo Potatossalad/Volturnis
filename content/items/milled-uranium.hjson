@@ -1,0 +1,6 @@
+cost: 1
+radioactivity: 0.25
+research: {
+    parent: uranium-ore
+    requirements: []
+}

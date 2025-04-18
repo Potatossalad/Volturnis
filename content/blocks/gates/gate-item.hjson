@@ -1,4 +1,4 @@
-localizedName: "Gate: Items"
+localizedName: "[gold]Gate: Items"
 description: "Gate for Items"
 alwaysUnlocked: true
 type: Wall

@@ -1,4 +1,9 @@
 cost: 1
-research: thorium
+research: {
+    parent: team-uranoid
+    requirements: [
+        thorium/100
+    ]
+}
 explosiveness: 0.15
 radioactivity: 0.30

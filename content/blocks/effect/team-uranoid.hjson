@@ -1,0 +1,11 @@
+localizedName: "[#2CFA1F]Uranoids"
+description: Collective technology of factions that used Radioactive Elements
+alwaysUnlocked: true
+type: LightBlock
+health: 800
+size: 2
+research: {
+    root: true
+    name: "[#2CFA1F]Uranoids"
+    requiresUnlock: false
+}

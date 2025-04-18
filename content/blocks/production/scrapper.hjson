@@ -20,7 +20,7 @@ requirements: [
 category: crafting
 research: {
   parent: mechanical-drill
-  requirenemnts: [
+  requirements: [
     copper/540
     lead/300
   ]

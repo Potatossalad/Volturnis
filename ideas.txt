@@ -15,6 +15,29 @@ Cooler:
     Cools cryofluid into crystals
 Volturnis:
     Old race of entities. Maybe biological.
-    Might make a planet called voltaria
+    Might make a planet called Voltaria
     Going to have its own tech tree
-    Heat based (unlike the god Volturnus)
+    Made the Precursors
+Uranium Fuel production:
+    Production of yellowcake:
+        Mining Uranium
+        Milling Uranium 
+        Water added to make a slurry
+        Slurry is leached with sulfuric acid which dissolves the uranium leaving the other minerals solid (tailings). Dissolved Uranium is called Pregnant Solution.
+        Solvent is used to extract Uranium Ions
+        Pregnant Solution is then stripped using nitrates
+        Uranium is precipitated out using hydrogen peroxide
+        Precipitate is filtered then dried then heated to make yellowcake
+    Yellowcake -> Uranium Hexafluoride:
+        Yellowcake is reacted with hydrogen at high temps to make Uranium Dioxide
+        UO2 is reacted with Hydrofluoric Acid in a fluidized bed reactor to produce Uranium Tetrafluoride
+        UF4 is then reacted with gaseous F2 to produce Uranium Hexafluoride
+    Enrichment:
+        UF6 is put into Gas Centrifuges to seperate based on mass difference
+            Produces depleted uranium (DU) as a byproduct. DU can be used for ammo, or reprocessed for more U235.
+    Resolidification:
+        Combine with Calcium Oxide
+            Produces Calcium Fluoride (CaF2) (solid) and Uranium Dioxide (solid)
+        UO2 is heated to 1400C
+        Extruded into pellets
+        Loaded into Zirconium Fuel Rods

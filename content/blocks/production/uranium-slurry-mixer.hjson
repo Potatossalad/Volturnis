@@ -1,0 +1,30 @@
+type: GenericCrafter
+size: 1
+hasPower: true
+hasItems: true
+hasLiquids: true
+itemCapacity: 3
+consumesPower: true
+breakable: true
+destructible: true
+health: 45
+consumes: {
+    power: 0.2
+    items: [
+        milled-uranium/1
+    ]
+    liquids: [
+        water/1
+    ]
+}
+outputLiquid: uranium-slurry/0.5
+research: {
+    parent: mill
+    requirements: []
+}
+craftTime: 69
+requirements: [
+    metaglass/5
+    lead/50
+    copper/20
+]

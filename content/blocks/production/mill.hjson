@@ -1,0 +1,23 @@
+type: GenericCrafter
+size: 1
+hasPower: true
+hasItems: true
+itemCapacity: 3
+consumesPower: true
+breakable: true
+destructible: true
+health: 45
+consumes: {
+    power: 0.4
+    items: [
+        uranium-ore/1
+    ]
+}
+craftTime: 45
+outputItem: milled-uranium/1
+requirements: [
+    lead/70
+    copper/40
+]
+category: crafting
+research: team-uranoid
