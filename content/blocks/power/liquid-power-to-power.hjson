@@ -1,7 +1,7 @@
 type: ConsumeGenerator
 name: Liquid Power to Power
 description: Converts Liquid Power into Power. Should be 1:1. Used in Voltaria
-displayEfficency: false
+displayEfficiency: false
 minEfficiency: 1
 breakable: true
 size: 1

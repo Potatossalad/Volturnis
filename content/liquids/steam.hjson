@@ -1,0 +1,9 @@
+type: Liquid
+gas: true
+color: FFFFFF
+glowColor: add8e6
+glowIntensity: 0.7
+temperature: 0.7
+viscosity: 0.2
+blockReactive: false
+coolant: false
