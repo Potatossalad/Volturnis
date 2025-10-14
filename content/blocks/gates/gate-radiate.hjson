@@ -1,8 +1,8 @@
-localizedName: "[gold]Gate: Production"
+localizedName: "[gold]Gate: Radiation"
 description: "Gate for radioactive stuff"
 alwaysUnlocked: true
 type: Wall
 health: 0 
 buildVisibility: hidden
-research: team-volturnis
+research: team-uranoid
 size: 1

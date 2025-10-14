@@ -1,6 +1,6 @@
 cost: 1
 research: {
-    parent: team-uranoid
+    parent: gate-radiate
     requirements: [
         thorium/100
     ]
