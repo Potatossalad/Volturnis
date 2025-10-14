@@ -13,7 +13,7 @@ consumes: {
         uranium-ore/1
     ]
 }
-craftTime: 45
+craftTime: 90
 outputItem: milled-uranium/1
 requirements: [
     lead/70
