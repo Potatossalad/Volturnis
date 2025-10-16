@@ -9,7 +9,7 @@ destructible: true
 breakable: true
 health: 0
 consumes: {
-    power: 0.1
+    power: 0.2
     liquids: [
         oil/0.3
     ]

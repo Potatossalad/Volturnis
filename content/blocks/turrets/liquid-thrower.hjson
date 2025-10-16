@@ -71,20 +71,6 @@ ammoTypes: {
         liquid: molten-surge
         status: melting
     }
-    liquid-power: {
-        type: LiquidBulletType
-        lifetime: 120
-        speed: 5
-        knockback: 3
-        puddleSize: 4
-        orbSize: 6
-        ammoMultiplier: 0.5
-        statusDuration: 720
-        drag: 0.001
-        damage: 70
-        liquid: liquid-power
-        status: electrified
-    }
 }   
 requirements: [
     lead/50

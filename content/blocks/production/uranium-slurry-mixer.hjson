@@ -1,5 +1,5 @@
 type: GenericCrafter
-size: 1
+size: 2
 hasPower: true
 hasItems: true
 hasLiquids: true
@@ -15,6 +15,23 @@ consumes: {
     ]
     liquids: [
         water/1
+    ]
+}
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawRegion
+            suffix: "-bottom"
+        }
+        {
+            type: DrawLiquidTile
+            drawLiquid: "uranium-slurry"
+            suffix: "-liquid"
+        }
+        {
+            type: DrawDefault
+        }
     ]
 }
 outputLiquid: uranium-slurry/0.5
