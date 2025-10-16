@@ -1,0 +1,33 @@
+type: GenericCrafter
+size: 3
+hasPower: true
+hasItems: true
+hasLiquids: true
+itemCapacity: 10
+consumesPower: true
+destructible: true
+breakable: true
+health: 0
+consumes: {
+    power: 0.1
+    liquids: [
+        oil/0.3
+    ]
+}
+outputItem: lead/2
+outputLiquid: oil/0.1
+
+category: crafting
+research: {
+    parent: team-uranoid
+    requirements: []
+}
+craftTime: 120
+requirements: [
+    lead/60
+    copper/80
+    metaglass/10
+    silicon/50
+    surge-alloy/5
+    plastanium/20
+]

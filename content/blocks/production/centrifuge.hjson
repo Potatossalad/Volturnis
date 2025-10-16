@@ -1,0 +1,4 @@
+type: wall
+size: 1
+health: 0
+buildVisibility: hidden

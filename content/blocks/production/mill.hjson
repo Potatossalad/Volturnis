@@ -1,5 +1,19 @@
 type: GenericCrafter
 size: 1
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawDefault
+        },
+        {
+            type: DrawRegion
+            suffix: "-spinner"
+            rotateSpeed: 5.0
+            spinSprite: true
+        }
+    ]
+}
 hasPower: true
 hasItems: true
 itemCapacity: 3
