@@ -3,3 +3,14 @@ size: 7
 tier: 20
 rotateSpeed: 1
 drillTime: 20
+warmUpSpeed: 0.01
+breakable: true
+destructible: true
+consumes: {
+    power: 10
+}
+requirements: [
+    copper/1
+]
+category: production
+research: team-uranoid

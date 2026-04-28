@@ -1,6 +1,6 @@
 type: SolarGenerator
 displayEfficiency: false
-minEfficiency: 1
+minEfficiency: 5
 breakable: true
 destructible: true
 size: 1
