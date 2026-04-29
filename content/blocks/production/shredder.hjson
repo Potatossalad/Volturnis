@@ -1,0 +1,27 @@
+type: GenericCrafter
+size: 2
+hasPower: true
+hasItems: true
+itemCapacity: 50
+consumesPower: true
+destructible: true
+breakable: true
+health: 25
+craftTime: 32
+consumes: {
+    power: 0.5
+    items: [
+        lead/5
+    ]
+}
+requirements: [
+    plastanium/30
+    surge-alloy/20
+    metaglass/20
+]
+outputItem: scrap/6
+research: {
+    parent: scrapper
+    requirements: []
+}
+category: crafting

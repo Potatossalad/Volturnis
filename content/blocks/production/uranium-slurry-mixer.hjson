@@ -23,12 +23,12 @@ drawer: {
         {
             type: DrawRegion
             suffix: "-bottom"
-        }
+        },
         {
             type: DrawLiquidTile
             drawLiquid: "uranium-slurry"
             suffix: "-liquid"
-        }
+        },
         {
             type: DrawDefault
         }
