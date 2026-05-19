@@ -6,5 +6,4 @@
     version: 1.0
     minGameVersion: "146"
     hidden: false
-    dependencies: ["multi-crafter"]
 }
