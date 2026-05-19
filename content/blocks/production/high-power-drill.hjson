@@ -6,6 +6,7 @@ drillTime: 20
 warmUpSpeed: 0.01
 breakable: true
 destructible: true
+itemCapacity: 200
 consumes: {
     power: 10
 }
