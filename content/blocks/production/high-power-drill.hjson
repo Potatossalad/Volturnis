@@ -4,11 +4,18 @@ tier: 20
 rotateSpeed: 1
 drillTime: 20
 warmUpSpeed: 0.01
+liquidBoostIntensity: 1.5
 breakable: true
 destructible: true
 itemCapacity: 200
 consumes: {
     power: 10
+    liquid: {
+        liquid: water
+        amount: 0.31
+        booster: true
+        optional: true
+    }
 }
 requirements: [
     copper/1
