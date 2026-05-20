@@ -1,8 +1,8 @@
 type: Drill
 size: 7
 tier: 20
-rotateSpeed: 1
-drillTime: 20
+rotateSpeed: 0.5
+drillTime: 10
 warmUpSpeed: 0.01
 liquidBoostIntensity: 1.5
 breakable: true
