@@ -4,7 +4,7 @@ tier: 20
 rotateSpeed: 1
 drillTime: 5
 warmUpSpeed: 0.01
-liquidBoostIntensity: 1.5
+liquidBoostIntensity: 5.0
 breakable: true
 destructible: true
 itemCapacity: 200
