@@ -1,15 +1,15 @@
 type: liquidTurret
 size: 3
-health: 700
-range: 576
+health: 1200
+range: 800
 reload: 0.5
 continuous: true
 heatColor: ff4500
 hasLiquid: true
-liquidCapacity: 100
-targetAir: false
+liquidCapacity: 200
+targetAir: true
 recoil: 0
-inaccuracy: 7
+inaccuracy: 6
 targetAir: true
 breakable: true
 destructible: true
@@ -67,7 +67,7 @@ ammoTypes: {
         ammoMultiplier: 10
         statusDuration: 480
         drag: 0.001
-        damage: 110
+        damage: 300
         liquid: molten-surge
         status: melting
     }
@@ -81,4 +81,4 @@ requirements: [
     plastanium/20
 ]
 category: turret
-research: tsunami
+research: wave
